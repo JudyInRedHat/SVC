@@ -1,2 +1,1 @@
-# SVC
-A VSC for scratch project.
+# SVC(Scratch Version Control)  
